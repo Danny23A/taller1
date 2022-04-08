@@ -1,6 +1,6 @@
-package Taller.com.app;
+package com.Taller.app;
 
-import Taller.com.dominio.DispensadorSnack;
+import com.Taller.dominio.DispensadorSnack;
 
 public class DispensadorSnackApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Taller.com.dominio;
+package com.Taller.dominio;
 
 import java.util.ArrayList;
 import java.util.Comparator;

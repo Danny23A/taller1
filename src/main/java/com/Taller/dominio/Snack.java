@@ -1,4 +1,4 @@
-package Taller.com.dominio;
+package com.Taller.dominio;
 
 public class Snack {
     private String nombre;

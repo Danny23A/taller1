@@ -1,6 +1,6 @@
-package Taller.com.app;
+package com.Taller.app;
 
-import Taller.com.dominio.Agenda;
+import com.Taller.dominio.Agenda;
 
 public class AgendaApp {
     public static void main(String[] args) {
